@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Arsenal",
+        "short": "arsenal",
+        "img": "arsenal.png"
+    },
+    {
+        "name": "Real Madrid",
+        "short": "real-madrid",
+        "img": "real-madrid.png"
+    },
+    {
+        "name": "Athletico Madrid",
+        "short": "atletico-madrid",
+        "img": "atletico-madrid.png"
+    },
+    {
+        "name": "Barcelona",
+        "short": "barcelona",
+        "img": "barcelona.png"
+    },
+    {
+        "name": "Chelsea",
+        "short": "chelsea",
+        "img": "chelsea.png"
+    },
+    {
+        "name": "Borussia Dortmund",
+        "short": "dortmund",
+        "img": "dortmund.png"
+    },
+    {
+        "name": "Fenerbahçe",
+        "short": "fenerbahce",
+        "img": "fenerbahce.png"
+    },
+    {
+        "name": "Inter Milan",
+        "short": "inter",
+        "img": "inter.png"
+    },
+    {
+        "name": "Juventus",
+        "short": "juventus",
+        "img": "juventus.png"
+    },
+    {
+        "name": "Liverpool",
+        "short": "liverpool",
+        "img": "liverpool.png"
+    },
+    {
+        "name": "Manchester City",
+        "short": "mancity",
+        "img": "mancity.png"
+    },
+    {
+        "name": "AC Milan",
+        "short": "milan",
+        "img": "milan.png"
+    },
+    {
+        "name": "PSG",
+        "short": "psg",
+        "img": "psg.png"
+    },
+    {
+        "name": "Roma",
+        "short": "roma",
+        "img": "roma.png"
+    }
+]
