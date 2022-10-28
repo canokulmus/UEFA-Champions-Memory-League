@@ -162,7 +162,6 @@ function shuffleCard() {
     let arr = teams.concat(teams);
     arr.sort(() => Math.random() > 0.5 ? 1 : -1);
 
-    console.log(arr)
     cards.forEach((card, index) => {
         card.classList.remove("flip");
         let imgTag = card.querySelector(".back-view img");
