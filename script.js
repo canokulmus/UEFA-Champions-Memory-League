@@ -156,6 +156,7 @@ function shuffleCard() {
     clearInterval(timer);
     timeTag.innerText = timeLeft;
     flipsTag.innerText = flips;
+    matchedTag.innerText = matchedCard;
     disableDeck = isPlaying = false;
 
     let arr = teams.concat(teams);
